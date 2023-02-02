@@ -1,13 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9879857&assignment_repo_type=AssignmentRepo)
-<p align="center">
-    <img src="https://avatars.githubusercontent.com/u/1271858?s=200&amp;v=4" alt="@amaysim-au" width="100" height="100"> &nbsp; &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="100" height="100"/>
-</p>
 
----
-
-# amaysim Take Home Test - Flutter
-
-For current open positions, see https://www.amaysim.com.au/about/careers/
 
 ---
 
