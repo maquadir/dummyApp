@@ -1,0 +1,14 @@
+name: http_api_client
+description: HTTP client for APIs.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: 0.13.3
+  result_type:
+    path: ../result_type 
