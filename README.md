@@ -4,13 +4,6 @@
 
 ## Welcome!
 
-If you are reading this then we're likely in the process chatting with you about a technical role at amaysim on our apps team. If so, congratulations 🎉 !
-
-In order to move forward, we'd like to know a little about how you work. To that end, this repository contains a set of short, time-boxed exercises that you can use to demonstrate your skills and abilities.
-
-The exercises are based on our tech stack. Complete as many as you like to showcase to us your abilities, spending no more than 3-4 hours max. We know that 3-4 hours is not a lot of time and you will likely not be able to complete everything you'd like. Feel free to add notes to your PR on the things you would improve with more time.
-
-## Getting started
 
 Follow the [install instructions](https://flutter.io/setup-macos/) to setup Flutter.
 
