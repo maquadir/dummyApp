@@ -49,7 +49,7 @@ Choose an exercise(s) that matches you. This is the area in which you feel the m
 
 When you're happy with your changes, create a PR and email us the link. Be sure to include the following in your submission;
 
-- Screenshots of the finished product. Show off that work! 📸
+- Screenshots of the finished product. 
 - Added in assets folder
 - ![](assets/images/Simulator Screen Shot - iPhone 14 Pro Max - 2023-01-30 at 10.57.27.png)
 - ![](assets/images/Simulator Screen Shot - iPhone 14 Pro Max - 2023-01-30 at 10.57.34.png)
